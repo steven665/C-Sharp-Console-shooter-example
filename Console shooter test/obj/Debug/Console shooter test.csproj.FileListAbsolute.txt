@@ -1,0 +1,7 @@
+c:\users\gameb\source\repos\Console shooter test\Console shooter test\bin\Debug\Console shooter test.exe.config
+c:\users\gameb\source\repos\Console shooter test\Console shooter test\bin\Debug\Console shooter test.exe
+c:\users\gameb\source\repos\Console shooter test\Console shooter test\bin\Debug\Console shooter test.pdb
+c:\users\gameb\source\repos\Console shooter test\Console shooter test\obj\Debug\Console shooter test.csprojResolveAssemblyReference.cache
+c:\users\gameb\source\repos\Console shooter test\Console shooter test\obj\Debug\Console shooter test.csproj.CoreCompileInputs.cache
+c:\users\gameb\source\repos\Console shooter test\Console shooter test\obj\Debug\Console shooter test.exe
+c:\users\gameb\source\repos\Console shooter test\Console shooter test\obj\Debug\Console shooter test.pdb
